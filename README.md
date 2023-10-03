@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pvella
-- 👀 I’m interested in Android, iOS, Unity, Java, Oracle, LiquiBase, Snowflake
+- 👀 I’m interested in Android, iOS, Unity, Java, Oracle, LiquiBase, Snowflake, Python, Machine Learning, Postgres, Airflow
 - 🌱 I’m currently learning Springboot
-- 💞️ I’m looking to collaborate on the next killer app
+- 💞️ I’m looking to expand my experiences and collaborate with like minded individuals
 - 📫 How to reach me pvella@gmail.com
 
 <!---
